@@ -31,4 +31,4 @@ python createRKplans.py Task008_HepaticVessel 2 R 40
 nnUNet_train 2d RKSegPlusIRTrainerV2_noDeepSupervision_150epochs 8 0 -p nnUNetPlansv2.1_RK-R_40_pool5
 ```
 
-
+This article and repository are used for semantic segmentation. This work is based on an earlier piece of work, [RKSeg](https://github.com/ZhuMai/RKSeg). If you are interested in image classification, you can refer to [RKCNN](https://github.com/ZhuMai/RKCNN).
